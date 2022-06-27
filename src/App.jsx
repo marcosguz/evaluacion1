@@ -1,6 +1,4 @@
-
 import './App.css'
-import QuoteBox from './components/QuoteBox'
 import ChanceColor from './components/ChanceColor'
 
 function App() {
@@ -8,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className='quoteBox'>
-        <QuoteBox/>
+        <ChanceColor/>
       </div>
     </div>
   )

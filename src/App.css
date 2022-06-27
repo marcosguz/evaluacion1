@@ -1,0 +1,44 @@
+.App {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
+
+.quoteBox {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 8px 15px;
+  margin: 0 auto;
+  padding: 15px;
+  text-align: end;
+  width: 30%;
+}
+
+.quoteBox h4 {
+  display: flex;
+  text-align: center;
+}
+
+.commaDouble {
+  font-size: 2.5rem;
+}
+
+.quoteBox p {
+  text-align: end;
+}
+
+button {
+  background-color: greenyellow;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  height: 50px;
+  margin: 1rem 0 1rem 0;
+  width: 50px;
+}
+
+.arrow {
+  color: #FFF;
+}
